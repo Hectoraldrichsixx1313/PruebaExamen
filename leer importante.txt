@@ -1,0 +1,11 @@
+___________________________________
+INFORMACION 
+
+se hizo uso de My JSON server local para el manejo de la base del formulario 
+por medio de la URL 
+
+instalar en proyecto react 
+npm install -g json-server
+json-server db.json -p 4000
+url
+http://localhost:4000/listado

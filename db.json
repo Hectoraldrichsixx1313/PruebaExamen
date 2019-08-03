@@ -1,0 +1,18 @@
+{
+  "Registro": [
+    {
+      "clave": "6544667674",
+      "nombreCorto": "Edgar",
+      "Banco": "HSBC",
+      "Orden": "23",
+      "id": 1
+    },
+    {
+      "clave": "6543427674",
+      "nombreCorto": "Mariana",
+      "Banco": "Bancomer",
+      "Orden": "66",
+      "id": 2
+    }
+  ]
+}
